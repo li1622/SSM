@@ -4,7 +4,7 @@
   <groupId>SSM.Web</groupId>
   <artifactId>SSM.Web</artifactId>
   <packaging>war</packaging>
-  <version>${SSM.Web.version}</version>
+  <version>0.0.1-SNAPSHOT</version>
   <name>SSM.Web Maven Webapp</name>
   <url>http://maven.apache.org</url>
   

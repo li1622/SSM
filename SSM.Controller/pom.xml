@@ -4,7 +4,7 @@
 
   <groupId>SSM.Controller</groupId>
   <artifactId>SSM.Controller</artifactId>
-  <version>${SSM.Controller.version}</version>
+  <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>SSM.Controller</name>

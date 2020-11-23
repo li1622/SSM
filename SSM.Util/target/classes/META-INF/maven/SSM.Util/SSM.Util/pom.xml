@@ -4,7 +4,7 @@
 
   <groupId>SSM.Util</groupId>
   <artifactId>SSM.Util</artifactId>
-  <version>${SSM.Util.version}</version>
+  <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>SSM.Util</name>
@@ -39,10 +39,6 @@
     <artifactId>json-lib</artifactId>
     <version>2.2.3</version>
 </dependency> -->
-
-
-
-    
   </dependencies>
   
   
